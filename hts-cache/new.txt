@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:27:05	133/133	---MCZ	200	added ('OK')	text/plain	date:Tue,%2009%20Feb%202021%2000:54:41%20GMT	https://carlavieira078new.blogspot.com/robots.txt		(from )
+14:27:05	61210/61210	---MCZ	200	added ('OK')	text/html	date:Tue,%2009%20Feb%202021%2000:54:41%20GMT	https://carlavieira078new.blogspot.com/	C:/Meus%20Sites/Site%201/carlavieira078new.blogspot.com/index.html	(from )
+14:27:06	11800/11800	---M--	200	added ('OK')	text/javascript	date:Thu,%2003%20Oct%202019%2010:15:00%20GMT	https://www.gstatic.com/external_hosted/clipboardjs/clipboard.min.js	C:/Meus%20Sites/Site%201/www.gstatic.com/external_hosted/clipboardjs/clipboard.min.js	(from https://carlavieira078new.blogspot.com/)
+14:27:07	146886/146886	---M--	200	added ('OK')	text/javascript	date:Wed,%2017%20Feb%202021%2020:11:53%20GMT	https://www.blogger.com/static/v1/widgets/2473628150-widgets.js	C:/Meus%20Sites/Site%201/www.blogger.com/static/v1/widgets/2473628150-widgets.js	(from https://carlavieira078new.blogspot.com/)
