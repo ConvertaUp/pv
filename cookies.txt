@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.eletivafis.com.br	TRUE	/	FALSE	1999999999	__cfduid	d8249fde413c0127e8cc827ac6addd6031614009716
+eletivafis.com.br	TRUE	/	FALSE	1999999999	SameSite	Lax
+
